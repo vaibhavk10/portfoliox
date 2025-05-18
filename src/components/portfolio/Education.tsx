@@ -54,7 +54,7 @@ const achievements: Achievement[] = [
 {
   id: 1,
   title: "Research Paper Publication in IEEE",
-  year: "2024",
+  year: "2025",
   description: "Published research paper titled 'Minimum Variance Unbiased Estimators of Generalized Gaussian Distribution With an H-Proper Quaternion Random Variable' in IEEE."
 },
 {
