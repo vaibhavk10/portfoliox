@@ -87,7 +87,7 @@ const Hero = () => {
               size="lg"
               className="border-purple-600 text-purple-600 hover:bg-purple-50 rounded-full">
 
-              <a href="./assets/Vaibhavk10_RESUME1.pdf" download data-id="q404y9hts" data-path="src/components/portfolio/Hero.tsx">Download Resume</a>
+              <a href="/VaibhavKumawat_SDE_Resume-Copy.pdf" download data-id="q404y9hts" data-path="src/components/portfolio/Hero.tsx">Download Resume</a>
             </Button>
           </motion.div>
         </div>
