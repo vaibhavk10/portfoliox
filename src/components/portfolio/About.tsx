@@ -31,9 +31,10 @@ const About = () => {
               <div className="absolute -inset-4 bg-gradient-to-r from-purple-600 to-blue-600 rounded-lg opacity-30 blur-lg" data-id="skprvmew7" data-path="src/components/portfolio/About.tsx"></div>
               <div className="relative aspect-square overflow-hidden rounded-lg shadow-lg" data-id="e4frcqz55" data-path="src/components/portfolio/About.tsx">
                 <img
-                  src="https://images.unsplash.com/photo-1544717305-2782549b5136?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+                  src="/public/pp.png"
                   alt="Vaibhav Kumawat portrait"
-                  className="w-full h-full object-cover" data-id="4g9o09g8y" data-path="src/components/portfolio/About.tsx" />
+                  className="w-full h-full object-cover"
+                />
 
               </div>
             </div>
