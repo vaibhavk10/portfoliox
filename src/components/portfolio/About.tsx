@@ -72,7 +72,7 @@ const About = () => {
                   <Calendar className="text-purple-600" size={20} />
                   <div data-id="5jgun7fbm" data-path="src/components/portfolio/About.tsx">
                     <p className="text-sm text-gray-500" data-id="k61adoeht" data-path="src/components/portfolio/About.tsx">Age</p>
-                    <p className="font-medium" data-id="rp22b8l49" data-path="src/components/portfolio/About.tsx">Student</p>
+                    <p className="font-medium" data-id="rp22b8l49" data-path="src/components/portfolio/About.tsx">22</p>
                   </div>
                 </CardContent>
               </Card>
@@ -82,7 +82,7 @@ const About = () => {
                   <MapPin className="text-purple-600" size={20} />
                   <div data-id="8wobmr04z" data-path="src/components/portfolio/About.tsx">
                     <p className="text-sm text-gray-500" data-id="0lidn4cc5" data-path="src/components/portfolio/About.tsx">Location</p>
-                    <p className="font-medium" data-id="q7v1rrshb" data-path="src/components/portfolio/About.tsx">VIT Chennai, India</p>
+                    <p className="font-medium" data-id="q7v1rrshb" data-path="src/components/portfolio/About.tsx">Chennai , India</p>
                   </div>
                 </CardContent>
               </Card>
