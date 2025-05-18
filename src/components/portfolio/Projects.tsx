@@ -19,7 +19,7 @@ const projects: Project[] = [
   id: 1,
   title: "EatSphere",
   description: "Snack Delivery Application built with Kotlin and Android Studio, featuring real-time tracking and payment integration.",
-  image: "https://images.unsplash.com/photo-1565299507177-b0ac66763828?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80",
+  image: "/eatsphere.jpg",
   tags: ["Kotlin", "Android Studio", "Firebase", "Payment Integration"],
   github: "https://github.com/vaibhavk10/EatSphere/"
 },
@@ -27,7 +27,7 @@ const projects: Project[] = [
   id: 2,
   title: "Food Express",
   description: "A responsive food delivery website built using HTML, CSS, and JavaScript.",
-  image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80",
+  image: "/foodexpress.jpg",
   tags: ["HTML", "CSS", "JavaScript", "Responsive Design"],
   github: "https://github.com/vaibhavk10/Food-Express",
   demo: "https://vaibhavk10.github.io/Food-Express/"
@@ -45,7 +45,7 @@ const projects: Project[] = [
   id: 4,
   title: "ChatMate AI",
   description: "Modern chatbot powered by Google's Gemini API with an intuitive UI.",
-  image: "https://images.unsplash.com/photo-1511296265581-c2450046447d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3MTg3MTl8MHwxfHNlYXJjaHwxfHxBJTIwbW9kZXJuJTIwY2hhdGJvdCUyMHBvd2VyZWQlMjBieSUyMEdvb2dsZSUyN3MlMjBHZW1pbmklMjBBUEklMjB3aXRoJTIwYW4lMjBpbnR1aXRpdmUlMjBVSS58ZW58MHx8fHwxNzQ3NTc3MzIzfDA&ixlib=rb-4.1.0&q=80&w=200$w=1632",
+  image: "/chatmate.jpg",
   tags: ["AI", "Gemini API", "JavaScript", "UI/UX"],
   github: "https://github.com/vaibhavk10/ChatMate-Ai",
   demo: "https://vaibhavk10.github.io/ChatMate-Ai/"
@@ -54,7 +54,7 @@ const projects: Project[] = [
   id: 5,
   title: "WhatsApp Bot",
   description: "WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and more.",
-  image: "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?ixlib=rb-4.0.3&auto=format&fit=crop&w=1974&q=80",
+  image: "/whatsappbot.png",
   tags: ["WhatsApp API", "Baileys", "Group Management", "Automation"],
   github: "https://github.com/vaibhavk10/WhatsApp-Bot"
 },
@@ -62,7 +62,7 @@ const projects: Project[] = [
   id: 6,
   title: "AI-Powered Task Management",
   description: "Real-time task management system powered by AI, featuring intelligent task suggestions, user authentication, and real-time updates using WebSockets.",
-  image: "https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?ixlib=rb-4.0.3&auto=format&fit=crop&w=1740&q=80",
+  image: "/aitask.jpg",
   tags: ["AI", "WebSockets", "Real-time", "Task Management"],
   github: "https://github.com/vaibhavk10/Ai-Task",
   demo: "https://ai-task-six.vercel.app//"
