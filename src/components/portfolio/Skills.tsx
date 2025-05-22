@@ -71,11 +71,11 @@ const Skills = () => {
             </TabsTrigger>
             <TabsTrigger value="design" className="flex items-center gap-2">
               <Palette size={16} />
-              <span className="hidden sm:inline" data-id="lhqfbshhp" data-path="src/components/portfolio/Skills.tsx">Tools</span>
+              <span className="hidden sm:inline" data-id="lhqfbshhp" data-path="src/components/portfolio/Skills.tsx">Design</span>
             </TabsTrigger>
             <TabsTrigger value="data" className="flex items-center gap-2">
               <Database size={16} />
-              <span className="hidden sm:inline" data-id="b03hsk0au" data-path="src/components/portfolio/Skills.tsx">Data</span>
+              <span className="hidden sm:inline" data-id="b03hsk0au" data-path="src/components/portfolio/Skills.tsx">Tools</span>
             </TabsTrigger>
             <TabsTrigger value="soft" className="flex items-center gap-2">
               <Brain size={16} />
