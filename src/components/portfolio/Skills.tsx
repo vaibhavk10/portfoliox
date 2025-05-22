@@ -71,7 +71,7 @@ const Skills = () => {
             </TabsTrigger>
             <TabsTrigger value="design" className="flex items-center gap-2">
               <Palette size={16} />
-              <span className="hidden sm:inline" data-id="lhqfbshhp" data-path="src/components/portfolio/Skills.tsx">Design</span>
+              <span className="hidden sm:inline" data-id="lhqfbshhp" data-path="src/components/portfolio/Skills.tsx">Tools</span>
             </TabsTrigger>
             <TabsTrigger value="data" className="flex items-center gap-2">
               <Database size={16} />
