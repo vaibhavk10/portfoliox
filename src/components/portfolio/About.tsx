@@ -82,7 +82,7 @@ const About = () => {
                   <MapPin className="text-purple-600" size={20} />
                   <div data-id="8wobmr04z" data-path="src/components/portfolio/About.tsx">
                     <p className="text-sm text-gray-500" data-id="0lidn4cc5" data-path="src/components/portfolio/About.tsx">Location</p>
-                    <p className="font-medium" data-id="q7v1rrshb" data-path="src/components/portfolio/About.tsx">Chennai , India</p>
+                    <p className="font-medium" data-id="q7v1rrshb" data-path="src/components/portfolio/About.tsx">Rajasthan , India</p>
                   </div>
                 </CardContent>
               </Card>
