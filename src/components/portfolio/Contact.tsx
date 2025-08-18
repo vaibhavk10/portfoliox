@@ -80,7 +80,7 @@ const Contact = () => {
               <ContactCard
                 icon={<MapPin className="text-purple-600" size={24} />}
                 title="Location"
-                details="Chennai, India" />
+                details="Rajasthan, India" />
 
               
               <ContactCard
