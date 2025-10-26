@@ -28,7 +28,7 @@ const educationList: Education[] = [
   id: 1,
   degree: "Bachelor's in Electronics & Computer Engineering",
   institution: "Vellore Institute of Technology, Chennai",
-  duration: "2021 - Currently studying",
+  duration: "2021 - 2025",
   description: "CGPA: 8.39",
   icon: <GraduationCap size={32} className="text-purple-600" />
 },

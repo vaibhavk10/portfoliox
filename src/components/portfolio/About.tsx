@@ -31,7 +31,7 @@ const About = () => {
               <div className="absolute -inset-4 bg-gradient-to-r from-purple-600 to-blue-600 rounded-lg opacity-30 blur-lg" data-id="skprvmew7" data-path="src/components/portfolio/About.tsx"></div>
               <div className="relative aspect-square overflow-hidden rounded-lg shadow-lg" data-id="e4frcqz55" data-path="src/components/portfolio/About.tsx">
                 <img
-                  src="/pph.jpg"
+                  src="/pphd.jpg"
                   alt="Vaibhav Kumawat portrait"
                   className="w-full h-full object-cover"
                 />
@@ -82,7 +82,7 @@ const About = () => {
                   <MapPin className="text-purple-600" size={20} />
                   <div data-id="8wobmr04z" data-path="src/components/portfolio/About.tsx">
                     <p className="text-sm text-gray-500" data-id="0lidn4cc5" data-path="src/components/portfolio/About.tsx">Location</p>
-                    <p className="font-medium" data-id="q7v1rrshb" data-path="src/components/portfolio/About.tsx">Chennai , India</p>
+                    <p className="font-medium" data-id="q7v1rrshb" data-path="src/components/portfolio/About.tsx">Rajasthan , India</p>
                   </div>
                 </CardContent>
               </Card>
