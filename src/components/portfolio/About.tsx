@@ -1,4 +1,4 @@
-import { motion } from "motion/react";
+fimport { motion } from "motion/react";
 import { User, Calendar, MapPin, Globe } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 
@@ -31,7 +31,7 @@ const About = () => {
               <div className="absolute -inset-4 bg-gradient-to-r from-purple-600 to-blue-600 rounded-lg opacity-30 blur-lg" data-id="skprvmew7" data-path="src/components/portfolio/About.tsx"></div>
               <div className="relative aspect-square overflow-hidden rounded-lg shadow-lg" data-id="e4frcqz55" data-path="src/components/portfolio/About.tsx">
                 <img
-                  src="/pp.png"
+                  src="/pphd.jpg"
                   alt="Vaibhav Kumawat portrait"
                   className="w-full h-full object-cover"
                 />
